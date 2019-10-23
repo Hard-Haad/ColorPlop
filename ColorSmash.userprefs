@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ShootAbleController.cs">
+    <Files>
+      <File FileName="Assets\CircleSpawner.cs" Line="37" Column="21" />
+      <File FileName="Assets\Scripts\CircleRotation.cs" Line="17" Column="1" />
+      <File FileName="Assets\SpawnAbleController.cs" Line="8" Column="40" />
+      <File FileName="Assets\Scripts\ShootAbleController.cs" Line="26" Column="40" />
+      <File FileName="Assets\Scripts\SpawnController.cs" Line="27" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
